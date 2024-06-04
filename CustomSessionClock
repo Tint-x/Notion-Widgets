@@ -1,0 +1,74 @@
+<div style="display:flex; flex-direction: row; align-items: center; pointer-events: none;">
+    <div style="display: flex; flex-direction: column; align-items:center; padding: 10px;">
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n240/szw160/szh160/hbw0/hfc000/cf100/hgr0/fav0/fiv0/mqcfff/mql20/mqw4/mqd94/mhcfff/mhl15/mhw4/mhd94/mmv0/hhcbbb/hmcddd/hsw2" 
+            frameborder="0" 
+            width="160" 
+            height="160"
+            >
+        </iframe>
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n240/fn8/fs16/fcfff/tct/pct/pa8/tt0/tw0/tm1/th2/tb4" 
+            frameborder="0" 
+            width="136" 
+            height="52" 
+            allowtransparency="true"
+            >
+        </iframe>
+        <b style="color: whitesmoke;">Sydney</b>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items:center; padding: 10px;">
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n248/szw160/szh160/hbw0/hfc000/cf100/hgr0/fav0/fiv0/mqcfff/mql20/mqw4/mqd94/mhcfff/mhl15/mhw4/mhd94/mmv0/hhcbbb/hmcddd/hsw2" 
+            frameborder="0" 
+            width="160" 
+            height="160"
+            >
+        </iframe>
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n248/fn8/fs16/fcfff/tct/pct/pa8/tt0/tw0/tm1/th2/tb4"
+            frameborder="0" 
+            width="136" 
+            height="52" 
+            allowtransparency="true"
+            >
+        </iframe>
+        <b style="color: whitesmoke;">Tokyo</b>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items:center; padding: 10px;">
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n136/szw160/szh160/hbw0/hfc000/cf100/hgr0/fav0/fiv0/mqcfff/mql20/mqw4/mqd94/mhcfff/mhl15/mhw4/mhd94/mmv0/hhcbbb/hmcddd/hsw2"
+            frameborder="0" 
+            width="160" 
+            height="160"
+            >
+        </iframe>
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n136/fn8/fs16/fcfff/tct/pct/pa8/tt0/tw0/tm1/th2/tb4" 
+            frameborder="0" 
+            width="136" 
+            height="52" 
+            allowtransparency="true"
+            >
+        </iframe>
+        <b style="color: whitesmoke;">London</b>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items:center; padding: 10px;">
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh0dxw/n179/szw160/szh160/hbw0/hfc000/cf100/hgr0/fav0/fiv0/mqcfff/mql20/mqw4/mqd94/mhcfff/mhl15/mhw2/mhd94/mmv0/hhcbbb/hmcddd/hsw2" 
+            frameborder="0" 
+            width="160" 
+            height="160"
+            >
+        </iframe>
+        <iframe 
+            src="https://free.timeanddate.com/clock/i9eh1u1n/n179/fn8/fs16/fcfff/tct/pct/pa8/tt0/tw0/tm1/th2/tb4" 
+            frameborder="0" 
+            width="136" 
+            height="52" 
+            allowtransparency="true"
+            >
+        </iframe>
+        <b style="color: whitesmoke;">New York</b>
+    </div>
+</div>
